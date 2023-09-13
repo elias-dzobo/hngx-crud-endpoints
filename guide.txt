@@ -1,0 +1,15 @@
+https://pytest-with-eric.com/pytest-advanced/pytest-fastapi-testing/#Database-Schema
+
+https://codevoweb.com/build-a-crud-app-with-fastapi-and-sqlalchemy/#google_vignette
+
+
+
+additionals 
+
+https://www.gormanalysis.com/blog/building-a-simple-crud-application-with-fastapi/
+
+https://www.tutorialsbuddy.com/create-rest-api-to-perform-crud-operations-using-fastapi-and-mysql#google_vignette
+
+https://mattermost.com/blog/building-a-crud-fastapi-app-with-sqlalchemy/
+
+https://blog.stackademic.com/how-to-build-a-crud-api-using-fastapi-python-sqlite-for-new-coders-2d056333ea20
